@@ -3,3 +3,8 @@ This is a simplified re-implementation of the paper “An Image is Worth 16x16 W
 
 Sample testing results:
 ![Alt text](results.png?raw=true "Title")
+
+### Reference
+The following article was huge help in designing my model and understanding the ViT architecture better:
+https://medium.com/@brianpulfer/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c
+
